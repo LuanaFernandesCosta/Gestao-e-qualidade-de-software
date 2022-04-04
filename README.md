@@ -1,10 +1,7 @@
 # Gestão de qualidade de software
-
-
 # Autores
 <table>
     <tbody>
-
  <br />
   <td align="center"> <a href="https://github.com/Geisislaine" rel="nofollow">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62703469?v=4" width="100px;" alt=""/>
