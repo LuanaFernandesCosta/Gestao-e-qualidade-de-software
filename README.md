@@ -33,9 +33,9 @@
  <br /> <sub><b>Adrian Alexandre</b></sub></a></td>
   
   <br />
-  <td align="center"> <a href="" rel="nofollow">
- <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
- <br /> <sub><b>Joao</b></sub></a> <a href="" title="Github"></a> </td>
+  <td align="center"> <a href="https://github.com/ThanatosPycaro" rel="nofollow">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89494987?v=4" width="100px;" alt=""/>
+ <br /> <sub><b>Joao</b></sub></a> <a href="https://github.com/ThanatosPycaro" title="Github"></a> </td>
  </tr>
  
  
